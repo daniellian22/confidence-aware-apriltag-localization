@@ -1,0 +1,5 @@
+step,from,to,dx_primary_mm,dx_secondary_mm,expected_primary_mm,error_mm,abs_error_mm
+1,IMG_2432.jpeg,IMG_2433.jpeg,-0.009,0.021,0.000,-0.009,0.009
+2,IMG_2433.jpeg,IMG_2434.jpeg,0.189,-0.181,0.000,0.189,0.189
+3,IMG_2434.jpeg,IMG_2435.jpeg,-0.004,-0.015,0.000,-0.004,0.004
+4,IMG_2435.jpeg,IMG_2436.jpeg,0.016,0.000,0.000,0.016,0.016
