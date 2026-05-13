@@ -13,7 +13,7 @@ tag_size_mm = 64
 origin_id = 11
 target_id = 13
 
-# Your grouping:
+# grouping:
 # IMG_2762-2766 = 1 mm
 # IMG_2767-2771 = 2 mm
 # IMG_2772-2776 = 3 mm
