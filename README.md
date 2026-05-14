@@ -18,7 +18,6 @@ This repository contains code, analysis scripts, plots, and report material for 
 - `merge_scan_with_cmd.py`
 - `plot_scan_results.py`
 - `make_project_plots.py`
-- `report.txt`
 
 ## Output Figures
 
@@ -31,7 +30,6 @@ Presentation-ready figures are available in `final_plots/` and at the repository
 This repository snapshot currently contains documentation files only:
 
 - `README.md`
-- `report.txt`
 
 You can view the report directly in any text editor.
 
